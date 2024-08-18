@@ -1,0 +1,27 @@
+{
+
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingenthusiast",
+    "prod_uri": "mysql://root:@localhost/codingenthusiast",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://www.onlinegdb.com/online_c++_compiler",
+    "gmail-user": "mdizhaan21@gmail.com",
+    "gmail-password": "hblh twdn fmel zrkc",
+    "blog_name" : "Coding Enthusiasts",
+    "tag_line" : "Heaven for Programmers",
+    "about_text": "Hi my name is Izhaan and I am a B-Tech Student (Computer Science) . I am a very good programmer ",
+    "no_of_posts" : 2,
+    "login_image" : "login.png",
+    "admin_user" : "mdizhaan21@gmail.com",
+    "admin_password": "subscribenow",
+    "upload_location": "C:\\Users\\mdizh\\PycharmProjects\\IzhaanProject\\static"
+
+
+  }
+
+
+
+
+}
